@@ -1,6 +1,7 @@
 /* Body styling */
+
 body {
-  background: #713e94;
+  background: #1b646b;
   color: #fff;
   font-family: Helvetica, Arial;
   font-size: 27px;
@@ -65,13 +66,14 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #713e94;
+  color: #1b646b;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
   padding: 16px 0;
   text-indent: 20px;
   width: 92%;  
+  font-weight: bold;
 }
 
 .choice-bucket label ~ input {
